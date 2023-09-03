@@ -9,6 +9,8 @@ out/
 .jsonl
 *.csv
 *.sh
+LLMs/
+Score/
 
 # C extensions
 *.so
